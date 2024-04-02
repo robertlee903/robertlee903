@@ -10,7 +10,7 @@
 ### Technologies
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React&style=for-the-badge)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue&style=for-the-badge)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&style=for-the-badge)
