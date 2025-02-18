@@ -1,29 +1,49 @@
-## Fullstack Web Developer JavaScript | React | PHP | Ruby on Rails
+## Full-Stack & Generative AI Developer
 
-### Languages
+<p>Innovative and results-driven Full-Stack Developer & Generative AI Specialist with expertise in building scalable web applications and developing AI-driven solutions. Passionate about integrating cutting-edge AI models with modern web technologies to create intelligent, high-performance applications.</p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&style=for-the-badge)
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&style=for-the-badge)
+### Core Skills & Expertise
 
-### Technologies
+💻 Full-Stack Development:
 
-![React](https://img.shields.io/badge/-React-000?&logo=React&style=for-the-badge)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express&style=for-the-badge)
-![RubyonRails](https://img.shields.io/badge/-RubyonRails-000?&logo=RubyonRails&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&style=for-the-badge)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&style=for-the-badge)
+✅ Proficient in React, Next.js, Vue.js (Frontend)<br/>
+✅ Backend expertise with Node.js, Python (FastAPI, Flask, Django)<br/>
+✅ Database management with PostgreSQL, MongoDB, Firebase<br/>
+✅ API design & integration using GraphQL & RESTful APIs<br/>
+✅ Cloud deployment (AWS, Google Cloud, Vercel, Docker)
+
+
+🧠 Generative AI Development:
+
+✅ Expertise in LLMs (GPT, LLaMA, Mistral, Falcon, Gemini, Claude)<br/>
+✅ Fine-tuning & training models using Hugging Face, TensorFlow, PyTorch<br/>
+✅ Tokenization & prompt engineering for optimal AI performance<br/>
+✅ Deploying AI models with LangChain, FastAPI, LlamaIndex<br/>
+✅ Building AI-powered chatbots, text summarizers, and recommendation systems
+
+### Tech Stack
+
+🚀 Programming: JavaScript (ES6+), TypeScript, Python, Golang<br/>
+🚀 Frontend: React.js, Next.js, Vue.js, Tailwind CSS<br/>
+🚀 Backend: Node.js (Express, NestJS), Python (FastAPI, Django)<br/>
+🚀 AI/ML: Hugging Face Transformers, OpenAI API, TensorFlow, PyTorch<br/>
+🚀 Databases: PostgreSQL, MongoDB, Redis, Firebase<br/>
+🚀 Cloud & DevOps: AWS, Google Cloud, Docker, Kubernetes
+
+### Notable Projects
+
+1️⃣ AI-Powered Code Assistant – Built a ChatGPT-like coding assistant that provides real-time code suggestions and debugging help.<br/>
+2️⃣ E-commerce Personalization Engine – Integrated LLMs into a recommendation system to enhance user shopping experience.<br/>
+3️⃣ Voice-to-Text AI Bot – Developed a real-time AI transcription service using Whisper + GPT for automatic meeting summaries.<br/>
+4️⃣ Full-Stack SaaS Web App – Designed and deployed a scalable SaaS platform using React, Next.js, Node.js, and AWS Lambda.
+
+### Why Work With Me?
+
+✅ 8+ years of experience in full-stack development<br/>
+✅ 3+ years specializing in LLM-powered applications<br/>
+✅ Passionate about AI innovation & scalable software solutions<br/>
+✅ Strong background in cloud-based deployments & DevOps<br/>
+✅ Excellent problem-solving & collaboration skills
 
 ### Github Stats
 <img src="https://github-profile-trophy.vercel.app/?username=adamalston&row=1&column=6&margin-w=15&margin-h=15" />
